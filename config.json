@@ -1,4 +1,4 @@
 {
   "loadTestDir": "~/work/projects/load-tester/",
-  "npm-prefix": "yarn"
+  "npmPrefix": "yarn"
 }
